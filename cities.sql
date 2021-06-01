@@ -80,4 +80,5 @@ INSERT INTO cities (id, name) VALUES
 (78, 'Karabük'),
 (79, 'Kilis'),
 (80, 'Osmaniye'),
-(81, 'Düzce');
+(81, 'Düzce'),
+(82, 'Kıbrıs');
